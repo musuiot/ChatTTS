@@ -202,7 +202,7 @@ def main():
 
     demo.launch(
         server_name=args.server_name,
-        server_port=args.server_port,
+        server_port=9999,
         root_path=args.root_path,
         inbrowser=True,
         show_api=False,
