@@ -206,6 +206,7 @@ def main():
         root_path=args.root_path,
         inbrowser=True,
         show_api=False,
+        share=True
     )
 
 
